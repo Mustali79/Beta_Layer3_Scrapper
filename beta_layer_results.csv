@@ -1,0 +1,337 @@
+id,title,xp,number of sub-bounties,Dao name,parent_id,description
+1505,stETH on Arbitrum,250.0,0,Layer3,,"Get hold of some staked ETH (wstETH) and put your assets to work on Balancer Arbitrum.
+"
+1423,"Earn with Ribbon, Part II",,3,Ribbon Finance,,"Ribbon Finance recently launched a new Vault where you can earn a healthy APY by depositing stETH while keeping your principal safe. Don't miss this opportunity to grow your wealth during this winter 🎀 ❄️
+
+Please note that Ribbon Finance operates on the Ethereum Mainnet and a minimum of $20 is required to participate in this Quest. 
+Make sure you have enough ETH for gas and enough stETH for deposits before starting.
+
+⚠️ This is not financial advice. Always do your own research before proceeding.
+💡Learn everything about Ribbon Finance here
+🛡️ Check Ribbon Finance Audit Reports here
+"
+1424,Ribbon Finance 101,100.0,0,Ribbon Finance,1423.0,"How much do you know about Ribbon Finance? Did you have a read on their docs? Having a strong foundation of knowledge in Finance is a valuable asset that can benefit you throughout your journey.
+"
+1425,"Keep r-EARN-ing on Ribbon: New Vault, New Possibilities!",350.0,0,Ribbon Finance,1423.0,"Deposit your stETH in the R-Earn vault which employs a Sharkfin strategy & receive rEARN tokens! 
+
+You can get stETH from Uniswap here.
+
+Learn about R-Earn Vaults here
+"
+1426,Stake & Govern,350.0,0,Ribbon Finance,1423.0,"Staking your R-Earn Tokens will earn you an additional APY paid in RBN, the governance token of the Ribbon Finance protocol. RBN is used to vote on decisions regarding the protocol and is closely tied to its success.
+
+Not only that, there are more benefits of being a RBN holders that you can learn everything about it here
+"
+1502,Crypto Trivia #14,25.0,0,Layer3,,"Crypto Trivia – the quiz that will make you smarter and more informed about blockchain and NFTs. Enter now! 🤓💰
+
+Today's quiz is about bridges!
+"
+1501,Weekly: DeFi & NFTs on Polygon,375.0,0,Layer3,,"Explore some of the most popular DeFi protocols & go NFT shopping on Polygon, a scaling solution for Ethereum!
+"
+1496,Aave: Liquidity Mining Rewards,400.0,0,Layer3,,"Earn OP LM rewards & wAVAX rewards by supplying and borrowing on Aave v3 Optimism/Avalanche.
+"
+1374,Dollar Cost Averaging (DCA) with Cask,,3,Cask Protocol,,"Discover Cask Protocol, a protocol that enables users to Dollar Cost Average (DCA) invest by automatically buying crypto at various intervals. Start a weekly DCA Auto-Invest for a chance to win an NFT reward!
+
+Note: Please only participate in this Quest if you have the funds to do so. This quest requires dollar-cost averaging on Arbitrum in amounts of $40 or more. This Quest requires a 7-day waiting period before the first and second bounty.
+"
+1371,Auto-Invest with Cask Protocol,250.0,0,Cask Protocol,1374.0,"Maximize your earnings with Cask: the web3 protocol that lets you DCA with ease.
+"
+1372,Complete your first weekly DCA,100.0,0,Cask Protocol,1374.0,"Process your second DCA deposit after initiating your Auto-Buy in the previous bounty.
+
+Note: Make sure to sign up for low balance notifications in the Cask app to get notified when your balance or allowance is low.
+"
+1373,Follow & Share about Cask Protocol,100.0,0,Cask Protocol,1374.0,"Share about your DCA investing strategy with Cask Protocol on Twitter and join their Discord server. 
+"
+776,Curve: The Liquidity Heaven,,3,Layer3,,"A place for deep liquidity on multiple chains, Curve is a place for LPs to efficiently manage their capital & put their capital to use in highly liquid pools. 
+
+New UI, who dis? 👀
+"
+793,Swap Stables on Curve,200.0,0,Curve,776.0,"Get exposure to very deep stablecoin liquidity on Curve. Swap your stables on Curve from heavily liquid pools on Curve.
+"
+794,Add Liquidity & Stake on Curve (Polygon),200.0,0,Curve,776.0,"Deposit in the famous Tricrypto Pool on Polygon & then stake your LP tokens in the Gauge to earn extra yield on your LP position.
+"
+1492,Add Liquidity & Stake on Curve (Rollups),375.0,0,Curve,776.0,"Deposit in the famous Tricrypto Pool on Arbitrum & Optimism and then stake your LP tokens in the Gauge to earn extra yield on your LP position.
+"
+1488,Optimism Explorer I,375.0,0,Layer3,,"Explore the low-cost and lightning-fast Optimism ecosystem & discover the popular web3 dApps on this Layer2.
+"
+1480,Options Trading with Premia (Part II),,3,Premia,,"Try your hand at Premia, a decentralized options protocol revolutionizing market-driven pricing and capital efficient returns for all. Premia's automated options market enables best-in-class pricing based on realtime supply and demand.
+"
+1481,Bridge to Arbitrum using Premia,100.0,0,Premia,1480.0,"Experience DeFi options on Arbitrum. Bridge and swap in one step using Premia's bridge, powered by Socket.
+"
+1482,Purchase wBTC/wstETH/WETH Option,250.0,0,Premia,1480.0,"Purchase a WBTC/wstETH/WETH Call or Put option using Premia's decentralized option trading platform on Arbitrum. Premia options are ERC-1155 tokens that offer the holder the rights (but not the obligation) to buy or sell the underlying token by a specified date. Learn more here.
+
+⚠️ This is not financial advice, please do your own research before proceeding ⚠️
+"
+1483,Stay updated on Premia,100.0,0,Premia,1480.0,"Join the Premia community! Follow them on Twitter and join their Discord server.
+"
+449,"Sturdy, Simple DeFi on Avalanche",100.0,0,Aave,,"Reach your final form as a multi-chain DeFi explorer by utilizing Aave v3's money market on Avalanche.
+"
+1469,Slingshot Explorer (Part II),,4,Slingshot,,"Become a power swapper using Slingshot on Arbitrum, BNB Chain, Canto and also ready up your 2099 Metaverse wardrobe along the way.
+
+Note: In this quest, you'll be bridging to Canto & swapping at least $100 worth of USDC. Similarly, you'll also swap at least $100 worth of USDC on BNB Chain/Arbitrum.
+"
+1470,Swap on Slingshot Arbitrum,250.0,0,Slingshot,1469.0,"Discover swapping crypto the web3 way with Slingshot. You must swap over $100 to be eligible.
+"
+1471,Swap on Slingshot BNB,100.0,0,Slingshot,1469.0,"Time to make some swaps with Slingshot on BNB Chain. Swap the web3 way with Slingshot & experience the smoothest experience in swapping.
+"
+1472,Swap on Slingshot Canto,350.0,0,Slingshot,1469.0,"Canto is a layer-1 blockchain built to deliver on the promise of DeFi. Experience Slingshot on Canto by bridging your USDC to NOTE on Canto & swapping on Slingshot. 
+"
+1473,Metaverse Wardrobe: 2099,250.0,0,Slingshot,1469.0,"Time to dive into the world of 2099 NFTs on Slingshot Polygon. 
+"
+1405,Arbitrum All-Rounder II,500.0,0,Layer3,,"From swapping to GMX to exploring all aspects of DeFi on Arbitrum, boost the Nitro into exploration mode for this weekly bounty.
+"
+1462, Layer3 2022 Wrapped,,5,Layer3,,"Introducing your Layer3 wrapped. A compilation of the most popular Bounties from this year.
+
+If you missed the boat for these limited Bounties, you now have the opportunity to complete them now for a 2022 “Early on Layer3” Achievement and Discord Role. If you've already completed these Bounties on Layer3, then you should be able to re-verify for some additional XP, as well as an achievement and Discord Role.
+"
+1463,Friends and Family 🤗,100.0,0,Layer3,1462.0,"Connect your social profiles. You began on Layer3 by connecting your web2 identity to your web3 one.
+"
+1464,Make a Toast 🥂,200.0,0,Layer3,1462.0,"You were a multichain wizard this year, completing bounties across Ethereum, Polygon, and BNB Chain. This bounty contains steps from Introduction to Uniswap & The Future is DeFi.
+"
+1465,New Year’s Kiss 💏 ,200.0,0,Layer3,1462.0,"Sharing is caring. You joined your friends in completing Bounties this year by sharing the crypto love. This Bounty contains steps from Get Some ETH for Your Wallet & I'm grateful for...
+"
+1466,Fireworks Galore 🎇,350.0,0,Layer3,1462.0,"You celebrated the launch of innovative new L2s like Arbitrum One — by far our most popular chain on Layer3 this year. This Bounty contains steps from Planet Swap: GMX & TreasureDAO & Planet Lend: Radiant & Vesta.
+
+"
+1467,Watch the Ball Drop 🪩,450.0,0,Layer3,1462.0,"Lastly, you weren't afraid to explore. Bridges and bridging across chains remained popular throughout the year. This Bounty contains steps from Introduction to Bungee & Warpspeed Bridging.
+"
+1457,The Future is Multichain,500.0,0,Layer3,,"Step towards a multichain future by transacting across ecosystems in this simple, fun Quest! 
+
+Two lucky participants will receive a Netflix Gift Card 🎥 
+
+Disclaimer: 2 users will receive prizes. Winners announced at 5pm UTC on January 1st.
+"
+1448,Weekly Avalanche Explorer,500.0,0,Layer3,,"Winter is cold, let's trek to the snowy Avalanche ❄️ and explore some of these protocols!
+"
+1452,Become Crypto Native,600.0,0,Layer3,,"This Holiday Season, show your family how to become crypto native!  
+
+🎁 One random participant will receive a Ledger Stax 
+
+Winner announced at 5pm UTC on January 1st.
+"
+1449,Polygon's Breakout Year,500.0,0,Layer3,,"Polygon has emerged as a leader in 2022 with major partnership announcements, including with Adobe, Disney, Meta, the NFL, NuBank, Reddit, Robinhood, and Starbucks. 
+
+As we near the end of 2022, let's celebrate Polygon's impressive growth and adoption with this quick and fun quest.
+
+🎁 Two random participants will receive an Apple Watch SE
+
+Disclaimer: 2 users will receive prizes. Winners announced at 5pm UTC on January 1st.
+"
+1429,A Holiday Adventure,,3,Layer3,,"At L3 we celebrate the holidays, no matter your faith! We hope that this quest will bring some holiday cheer and allow you to spend quality time with loved ones. Let's embrace the holiday spirit together.
+
+Earn a commemorative NFT Gift from exclusive NFT artist @waarpdesign, and receive extra XP for completing our special holiday quest. 
+
+Note: This Quest requires the use of Arbitrum One and Polygon 💜
+"
+1430,Dinner is served 🍲,300.0,0,Layer3,1429.0,"Everyone has a place at the Layer3 dinner table. Call your friends and tell your loved ones — No one wants to eat cold turkey 🍗 / tofurkey 🌱!
+"
+1431,Chrismukkah trivia! 🎄,300.0,0,Layer3,1429.0,"Leave with a stomach full of food and a head full of holiday knowledge.
+"
+1432,Unwrapping your Gifts 🎁,850.0,0,Layer3,1429.0,"We hope you enjoyed our Holiday dinner! Now it's time to exchange gifts & unwrap your NFT reward (plus, a bonus XP boost from us).
+"
+1311,Day 12: Arbitrum Holiday,,4,Layer3,,"Unwrap the magic of crypto with the Arbitrum Holiday Quest!
+
+This season, explore dApps like SushiSwap, Stargate, Lido, and Mean Finance with Layer3 (and collect a special NFT).
+"
+1443,Safari Starts with Sushi ,250.0,0,SushiSwap,1311.0,"Go from zero to hero with SushiSwap Arbitrum. Swap, Hold, Tweet. Easy Peasy.
+"
+1444,Next Destination: Balancer & Lido,250.0,0,Lido,1311.0,"Explore the power of Lido’s liquid staked assets. Use Balancer’s wstETH pools boosted by Lido, to compound your ETH staking rewards.
+"
+1447,The Ride Continues with Stargate 💫,200.0,0,Stargate,1311.0,"Step into the infinite universe with Stargate. Dive into Stargate's fully composable liquidity pools and experience farming among the stars!
+"
+1445,Navigating Space with Mean Finance 👨‍🚀,150.0,0,Mean Finance,1311.0,"Investing is a tricky space and timing the market is hard. Learn how to navigate the investing space using Mean Finance’s Dollar-Cost-Averaging (DCA)
+"
+1415,Ho Ho Ho 🎅,250.0,0,Layer3,,"Get into the holiday spirit and spread some crypto cheer with the Christmas Quest! 
+
+Three lucky winners will receive a pair of Airpod Pros. All participants will receive a festive NFT 👉
+
+Grab your mistletoe, put on your red suit, and join us on this exciting journey to bring joy to the blockchain. Ho ho ho, happy holidays from Layer3!
+
+Disclaimer: 3 users will receive prizes. Winners announced at 5pm UTC on January 1st.
+"
+1446,Crypto Trivia #9,25.0,0,Layer3,,"Crypto Trivia – the quiz that will make you smarter and more informed about blockchain and NFTs. Enter now! 🤓💰
+
+Today's quiz is about NFTs and their use-cases.
+"
+1428,wBTC on Polygon,100.0,0,Layer3,,"Let's utilise some of our good ol' wBTC on Aave & Curve -- and earn some stable yield.
+
+This is not financial advice. Always do your own research. Make sure you balance your risks on these protocols.
+"
+1422,Go Multichain with Stables,475.0,0,Layer3,,"Travel across chains and explore the utility of your stables on various protocols. Become a multichain explorer!
+"
+1361,Day 4: GM LooksRare,,4,LooksRare,,"LooksRare is the web3 NFT marketplace where traders and collectors have earned over $1.3 Billion in rewards. Explore their community-fist marketplace with this Quest! Advent rewards for this Quest will be revealed at 9AM UTC the next day. You only have to participate in the first Bounty to be eligible for the raffle.
+
+🎄 To be eligible for advent rewards in our 12 Days of Layer3 activity, you must participate in the Quest corresponding to the reward. Participating in a Quest does not guarantee you a prize, only a raffle entry to win a prize. For eligibility requirements, read here. 🎁
+"
+1362,LooksRare 101 🎒,100.0,0,LooksRare,1361.0,"Join the LooksRare community and answer this short quiz before taking your first step on-chain! You only have to participate in this Bounty to be eligible for the raffle.
+"
+1363,Fuel Stop ⛽,100.0,0,LooksRare,1361.0,"Time to load up your wallet. Get both ETH & WETH which you will need to buy NFTs and to make offers on LooksRare.
+
+Note: Please make sure you have enough ETH as gas to complete an NFT purchase, stake your $LOOKS, and claim your $LOOKS rewards on LooksRare as part of this quest on Ethereum Mainnet.
+"
+1364,The Trading Floor 🛒,350.0,0,LooksRare,1361.0,"Buy, List, Offer. Boom. Become a LooksRare native in 3 simple steps.
+"
+1365,Knives Out 🥩,400.0,0,LooksRare,1361.0,"Pull up a seat. It's time to collect and commit your LOOKS rewards!
+"
+865,Decentralised Exchanges: PancakeSwap ,150.0,0,PancakeSwap,,"In the wake of decentralization and it's important, it's pretty important to actively use DEXes and support decentralization more than ever.
+
+In this bounty, we'll learn about PancakeSwap on BNB Chain.
+"
+1345,Let's Stay Optimistic,,2,Layer3,,"Time to paint your on-chain activity red 🔴 with Optimism. Explore various protocols on Optimism currently offering $OP rewards ✨
+"
+1346,Weekend Kickoff,350.0,0,Layer3,1345.0,"Start your weekend by exploring 🔴 Optimism 🔴 protocols!
+"
+1347,Sunday Scaries,350.0,0,Layer3,1345.0,"🔥 Weekend's almost over - time to promise yourself on staying Optimistic! 
+"
+1324,To Polygon ♾️ & Beyond,,2,Layer3,,"Time to explore Polygon and some of its OG & top protocols. Journey into Polygon with this multi-day quest 🤝
+"
+1319,Looping You In,250.0,0,Layer3,1324.0,"Kickstart your Polygon journey by rediscovering some of the most trusted protocols & enjoying some yields 💸
+"
+1320,Polygon & Beyond,300.0,0,Layer3,1324.0,"Time to sit back & relax. Put your capital to use on some top protocols on Polygon. A capital efficient ending to the quest.
+"
+1269,Delegating MATIC with CB Cloud,,2,Coinbase Cloud,,"Curious to explore native staking on Polygon? Stake MATIC to Coinbase Cloud’s public validators, start earning rewards, and help secure the Polygon network. Stake a min of 50 MATIC, and hold your delegation for 30 days. 
+
+Refer to the detailed guide on the process here.
+
+Please see the full list of Eligibility Requirements here.
+
+You have to enter in the 96 hour period immediately following the Commencement Time (i.e., to be eligible you must begin delegating prior to December 4, 2022 at 10am EST
+"
+1270,Delegate MATIC with CB Cloud (Part II),400.0,0,Coinbase Cloud,1269.0,"Delegate your MATIC to Coinbase Cloud’s secure public validator.
+"
+1271,Hold your MATIC Delegation for 30 days,400.0,0,Coinbase Cloud,1269.0,"Hold your MATIC delegation for at least 30 days to unlock & verify this quest.
+"
+1201,Multichain Mania: Aave,350.0,0,Layer3,,"You need to utilize the skill every now & then. Let's continue doing so with Aave to make sure there's always ways you capitalise your assets with. On Multiple Chains.
+"
+1189,Multichain Mania: Stables,300.0,0,Layer3,,"What's stable even in a bear market? Stablecoins! Use your stables to minimise your risk exposure and also explore ways to earn yields over multiple chains!
+"
+1179,Arbitrum Adventure II,,4,Layer3,,"You've come a long way, adventurer! Continue exploring Arbitrum, an optimistic rollup built to scale Ethereum.
+
+Double down on your favorite Arbitrum protocols and continue reaching for the depths of the Arbitrum galaxy in this Arbitrum Adventure. Explore Chainhop, Stratos, Umami, PlutusDAO, and more!
+"
+1184,Arbinaut Training,100.0,0,Arbitrum,1179.0,"Prepare to continue your galactic adventures into the far corners of the Arbitrum Galaxy. Before proceeding, remember to brush up on your Arbinaut training, and get ready to travel at warp speed.
+"
+1185,Warpspeed Bridging,150.0,0,Arbitrum,1179.0,"It’s time to strap on your helmets and go. Travel at warpspeed and bridge to Arbitrum via Chainhop, and receive an NFT for your efforts.
+
+Chainhop is a composable omnichain liquidity aggregation protocol and enables one-click, cross-chain swaps with the deepest liquidity and the best rate. Learn more about Chainhop.
+"
+1187,Into the Stratosphere,150.0,0,Arbitrum,1179.0,"As you venture further into the Arbitrum Galaxy, you spot a new planet with a few ERC-721 and ERC-1155 asteroids orbiting the atmosphere. You enter into the stratosphere and start to descend. 
+
+If you completed our “NFTs on Layer2s” Quest, you should be able to complete this bounty.
+"
+1188,The Lost Planet,250.0,0,Arbitrum,1179.0,"After your adventure on Planet Stratos, you leave and fuel up with a bit of Umami. Before traveling back home, you notice a planet unmarked on your radar…Pluto? Is that you?
+
+Journey into PlutusDAO and Umami Finance in the final step of our Arbitrum Adventure!
+"
+1168,Multichain Mania: Uniswap,450.0,0,Layer3,,"Rediscover the efficiency & flexibility of Uniswap v3 by swapping & LPing in the weekly Multichain Mania bounty!
+"
+1162,Arbitrum All-Rounder,400.0,0,Layer3,,"From buying/selling NFTs on OpenSea to exploring all aspects of DeFi on Arbitrum, boost the Nitro into exploration mode for this weekly bounty.
+"
+1161,Weekly dose of DeFi on Polygon,300.0,0,Layer3,,"Explore some of the most popular DeFi protocols on Polygon, a scaling solution for Ethereum!
+"
+1155,Arbitrum Explorer: Dopex & Sperax,350.0,0,Layer3,,"Optimize your yield on Arbitrum. Trade decentralized options on Dopex and generate organic stablecoin yield via Sperax.
+"
+1147,Let's Hop ,,4,Hop,,"Discovery’s just a bunny hop away. Hop your way through chains & learn more about Hop Protocol through intuitive quizzes and on-chain actions.
+
+This is not financial advice. Always do your own research.
+"
+1146,Introduction to Hop,50.0,0,Hop,1147.0,"What is Hop Protocol? 
+
+Hop is a scalable rollup-to-rollup general token bridge. It allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period.
+"
+1163,Bridge with a Bunny Hop,200.0,0,Hop,1147.0,"Hop allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period.
+
+Bridge to chains of your choice through Hop.
+"
+1164,Wrapping & Liquidity,250.0,0,Hop,1147.0,"Bridging is quite magical isn't it? Support Hop's bridging infrastructure by wrapping your tokens and adding liquidity to its pools. 
+
+This is not financial advice. Always do your own research.
+"
+1165,Earn rewards on your LP tokens,150.0,0,Hop,1147.0,"Once you add liquidity, you receive your LP tokens. Staking those LP tokens enable you to amass rewards on your position. 
+
+Time to learn & earn!
+"
+1141,Multichain Yields,300.0,0,Layer3,,"Yields are always tough to optimise, especially in bear markets. Let's explore some ways to generate yield on your assets & efficiently manage your capital. 🏦
+"
+1117,Signature Protocols & Novelties: Part III,300.0,0,Layer3,,"Let's explore various signature protocols & unique use-cases, one step at a time through this series covering various dApps on supported chains. Part III covers Optimism.
+"
+1109,Signature Protocols & Novelties: Part II,200.0,0,Layer3,,"Let's explore various signature protocols & unique use-cases, one step at a time through this series covering various dApps on supported chains. Part II covers Arbitrum.
+"
+1108,Signature Protocols & Novelties: Part I,200.0,0,Layer3,,"Let's explore various signature protocols & unique use-cases, one step at a time through this series covering various dApps on supported chains. Part I covers Polygon.
+"
+1070,Into the Avalanche: BenQi,300.0,0,Layer3,,"Turn your AVAX into sAVAX, the liquid staked AVAX token, using BenQi and earn yield for staking. What is liquid staking?
+"
+1062,A Layer3 Halloween 👻,,4,Layer3,,"Spooky times await. Journey through a haunted house, meet Aave the friendly ghost, and save your friend from being rug-pulled. Earn a commemorative Halloween NFT with 6,666 max supply and an achievement for your valiant efforts.
+
+Note: This Quest requires the use of Arbitrum One and Polygon. 
+"
+1104,Enter the Haunted House 🏚️,50.0,0,Layer3,1062.0,"The abandoned house beckons from down the street. A spooky voice rings out from inside...curious, you take a few steps towards the door.
+"
+1105,The Second Floor 🚪,75.0,0,Layer3,1062.0,"You open the door slowly and get major goosebumps as you look around. No one has lived in the house for more than 100 years, and it shows. 
+"
+1106,$MAGIC is the key 🪄,125.0,0,Layer3,1062.0,"Help your friendly ghost escape the haunted house. Find the $MAGIC wand to cast the $SPELL away.
+"
+1107,Abracadabra... WHOOSH! ✨,100.0,0,Layer3,1062.0,"You casted the $SPELL away with your $MAGIC. AAVE wants to give you a special gift (and NFT) for breaking his curse.
+"
+936,🐻 Bear Market Travels: Buckle Up!,300.0,0,Layer3,,"In this dire 🐻 market, let's buckle up to get through this bear by making smart investments this week. Smart investments 🤝 Capital efficiency
+"
+928,Arbitrum Adventure,,4,Arbitrum,,"Want to begin exploring Arbitrum, an optimistic rollup built to scale Ethereum? We have the perfect Quest for you. 
+
+Complete this Arbitrum adventure and equip yourself with all the skills you need to start using protocols like GMX, Vesta, Radiant, and more. You'll even receive a special Arbinaut achievement and NFT at the end. Learn more here.
+"
+932,Blast Off! Enter the Arbitrum Galaxy 🧑‍🚀,150.0,0,Arbitrum,928.0,"Ready to become an Arbinaut? Begin your journey here. 
+"
+933,Planet Swap: GMX & TreasureDAO,100.0,0,Arbitrum,928.0,"Your first stop in the Arbitrum galaxy. Master the classics to gear up for your adventure.
+"
+934,Planet Lend: Radiant & Vesta,150.0,0,Arbitrum,928.0,"You're on your way! Explore Arbitrum-native non-custodial lending on Radiant and Vesta.
+"
+935,Planet Yield: Dopex,250.0,0,Arbitrum,928.0,"Abundant farms and yields galore! Discover yield farming and staking on Dopex, and earn an NFT for all your hard work.
+"
+867,ENS Explorer: Register a Subdomain ,200.0,0,Layer3,,"Hold the ENS Explorer NFT? Learn how to register a subdomain for your ENS in this Bounty.
+"
+779,⚖️ Balancing Assets on Balancer,,3,Balancer,,"A place for your capital to be managed automatically, Balancer is the place where you can find the best ways to efficiently put your tokens into use and earn high yields. Learn by doing in this Quest.
+"
+1177,Introduction to Balancer,50.0,0,Balancer,779.0,"Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens.
+"
+797,Balancer on Polygon,250.0,0,Balancer,779.0,"Invest your assets on Polygon & make use of the automated management of your capital through Balancer Pools!
+"
+798,Balancer on Arbitrum,200.0,0,Balancer,779.0,"Arbitrum One is fast & efficient. Why not explore the capital efficiency of Balancer on Arbitrum One as well? Invest & Stake your capital in this bounty on Arbitrum!
+"
+773,The OG Uniswap,,4,Uniswap,,"Go back to where DeFi all started - with Uniswap. Experience the magic of Uniswap in this on-chain journey.
+"
+1199,Introduction to Uniswap,50.0,0,Uniswap,773.0,"The Uniswap protocol is a suite of persistent, non-upgradable smart contracts that together create an automated market maker, a protocol that facilitates peer-to-peer market making and swapping of ERC-20 tokens on the Ethereum blockchain.
+"
+787,Uniswap on Polygon,100.0,0,Uniswap,773.0,"Polygon is a decentralised Ethereum scaling platform with user-friendly dApps with low transaction fees. 
+
+Experience Uniswap on one of the leading Ethereum scaling solutions.
+"
+788,Uniswap on Optimism,150.0,0,Uniswap,773.0,"Optimism is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers.
+
+Experience Uniswap on Optimism & trade into various tokens on Optimism that have unique use-cases!
+"
+1223,Uniswap on Arbitrum,250.0,0,Uniswap,773.0,"Arbitrum is a next-generation, scalable Ethereum layer-2 (L2) ecosystem built to keep security high and transaction costs low. 
+
+Experience Uniswap on Arbitrum & trade into top tokens of your choice to dive deep into this unique ecosystem!
+"
+747,The Merge: Ethereum is now PoS (III)!,300.0,0,Layer3,,"History happening right in front of our eyes! Learn more about the Merge here.
+"
+683,Weekend Warrior: Arbitrum Week,475.0,0,Layer3,,"Your weekend dose of tasks. Have you done them all? Explore the week in summary as well as some bonus tasks.
+"
+617,Sustainable Yield on Polygon,400.0,0,Layer3,,"Explore the safest places to earn sustainable yields on your tokens on Polygon!
+"
+606,Multichain LP on Uniswap,150.0,0,Uniswap,,"Explore LPing on multiple chains on Uniswap, one of the biggest DEXs!
+"
+604,DeFi Masterchef II: Sushiswap Polygon,400.0,0,SushiSwap,,"Go from zero to hero with SushiSwap Polygon. Explore the robust ecosystem Sushi provides its users across Swaps, Kashi, and Onsen.
+"
+538,Exploring Synthetix II: Using sUSD (Optimism),400.0,0,Synthetix,,"After minting sUSD from SNX, learn about the utility of this token!
+"
+523,Master DeFi on Polygon,400.0,0,Layer3,,"Explore some of the most popular DeFi protocols on Polygon, a scaling solution for Ethereum!
+"
+478,Curve on Avalanche,300.0,0,Curve,,"Discover one of the most efficient ways to trade stablecoins and how to earn when people make swaps on Curve Avalanche.
+"
+461,Explore Avalanche: Intro to AVAX Staking,200.0,0,Avalanche,,"Learn how to become a liquid staker on Avalanche. You'll use the tokens obtained in this bounty in a future bounty!
+"
+381,Optimism DeFi Mastery I,400.0,0,Layer3,,"Prove your mastery of DeFi on Optimism with this 4-step bounty.
+"
+319,Polygon DeFi Mastery,400.0,0,Layer3,,"Master DeFi on one of the most popular layer 2's.
+"
