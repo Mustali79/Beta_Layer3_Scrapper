@@ -29,7 +29,7 @@ while True:
         querystring = {"input":"{\"json\":{\"taskType\":[\"BOUNTY\",\"QUEST\"],\"onlyUnavailable\":null,\"onlyClaimed\":null,\"onlyInProgressQuests\":null,\"includeFeatured\":false,\"includeClaimed\":false,\"includeExpired\":false,\"cursor\":" + str(next_cursor) + "},\"meta\":{\"values\":{\"onlyUnavailable\":[\"undefined\"],\"onlyClaimed\":[\"undefined\"],\"onlyInProgressQuests\":[\"undefined\"],\"cursor\":" + str(next_cursor) + "}}}"}
 
     payload = ""
-    logging.info(f"Getting data for {page} page")
+    logging.info(f"Getting jobs for {page} page")
     response = requests.request("GET", url, data=payload, params=querystring)
 
     data = response.json()
